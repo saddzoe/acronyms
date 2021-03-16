@@ -1,5 +1,5 @@
 # acronyms
-# This program creates acronyms for any given words.
+# This program creates acronyms for any given pharse.
 
 user_input = str(input("Type your phrase here: "))
 text = user_input.split()
